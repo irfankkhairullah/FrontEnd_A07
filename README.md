@@ -13,7 +13,7 @@ halaman web yang harus memiliki 6 komponen
 
 di dalam web ada layout
 bisa di pilih mau buat halaman di bagian apa 
-- header
+- header    => irfan
 - top       => irfan 
 - lessons
 - messege
