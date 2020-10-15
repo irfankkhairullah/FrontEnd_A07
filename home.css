@@ -1,0 +1,107 @@
+@font-face{
+	font-family: "Futura Md BT Medium";
+	src:url('font/Futura Md BT Medium.TTF');
+}
+body{
+	margin:0;
+	font-family:"Futura Md BT Medium";
+	background-image: url(image/background/549935.jpg);
+}
+
+a{
+	text-decoration:none; 
+}
+
+.container{
+	width: 1170px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+.top-wrapper{
+	padding: 50px 0px 100px 0px;
+	opacity: 0.8;
+	color: mintcream;
+	text-align: center;
+}
+
+/* tambahan css untuk top wrapper pada tag <h1> */
+.top-wrapper h1{
+	opacity: 0.8;
+	font-size: 30px;
+	letter-spacing: 5px;
+	margin-bottom: 10px;
+	line-height: 1.6;
+}
+
+/* tambahan css untuk top-wrapper pada tag <p>	*/
+.top-wrapper p{
+	opacity: 0.9;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 3px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+/*tambahan css untuk twitter*/
+
+/* tambahan untuk button btn wrapper */
+.btn-wrapper{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/* tambahan untuk button btn wrapper untuk tag p */
+.btn-wrapper p{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+/*CSS dalam Header */
+/* menambahkan vss untuk tag header*/
+header{
+	height: 65px;
+	width: 100%;
+	background-color: rgb(160, 82, 45);
+}
+/*tambahan gambar untuk logo */
+.logo{
+	width: 124px;
+	padding:20px 40px 20px 40px;
+	margin-left: 0px;
+	float: left;
+}
+
+li{
+	list-style: none;
+	float: left;
+	padding:25px 35px 25px 35px;
+}
+
+.header-right{
+	float: right;
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+.header-right:hover{
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header-right a{
+	line-height: 65px;
+	padding: 0px 25px;
+	color :white;
+	display: block;
+	transition: all 0.5s;
+}
+
+
+/*CSS dalam top*/
+.iklan{
+	width: 80%;
+}
+.line{
+	margin-top: 20px;
+	border-bottom: 5px solid #fff; 
+}

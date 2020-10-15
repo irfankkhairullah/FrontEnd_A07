@@ -1,0 +1,753 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"mar",
+				"marks\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"produk",
+				"produk_request"
+			],
+			[
+				"pe",
+				"pecah"
+			],
+			[
+				"pembayaran",
+				"pembayaran_request"
+			],
+			[
+				"kon",
+				"Konfirmasi"
+			],
+			[
+				"ta",
+				"tanggal"
+			],
+			[
+				"req",
+				"request_produk"
+			],
+			[
+				"id",
+				"id_customer"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"ha",
+				"halaman"
+			],
+			[
+				"e",
+				"elseif\telseif …"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"na",
+				"nama_penerima"
+			],
+			[
+				"ala",
+				"alamle"
+			],
+			[
+				"pro",
+				"prov"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"add",
+				"addproduk"
+			],
+			[
+				"al",
+				"alam"
+			],
+			[
+				"ke",
+				"kec"
+			],
+			[
+				"pr",
+				"prov"
+			],
+			[
+				"p",
+				"pen"
+			],
+			[
+				"nama",
+				"nama"
+			],
+			[
+				"msqli_m",
+				"mysqli_multi_query"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"berat",
+				"Berat"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"sub",
+				"submit_produk"
+			],
+			[
+				"con",
+				"form-control"
+			],
+			[
+				"pos",
+				"POST"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form-group"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"f",
+				"form-group"
+			],
+			[
+				"h",
+				"h5\tTag"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"to",
+				"totalbayar"
+			],
+			[
+				"ja",
+				"jasa"
+			],
+			[
+				"jasa",
+				"jasa_pembayaran"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"no",
+				"no_rek"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"cen",
+				"content\tproperty"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"fons",
+				"font-style\tproperty"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"nome",
+				"nomer_penerima"
+			],
+			[
+				"num",
+				"number_format"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"alamat",
+				"alamat_lengkap"
+			],
+			[
+				"mysqlq",
+				"mysql_query"
+			],
+			[
+				"ti",
+				"titipinaja2"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"fetch_assoc",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"fetch_a",
+				"cubrid_fetch_assoc"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"sess",
+				"_SESSION"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"id_",
+				"id_produk"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"text-align",
+				"text-align\tproperty"
+			],
+			[
+				"model",
+				"modal-header"
+			],
+			[
+				"modal",
+				"modal-content"
+			],
+			[
+				"moda",
+				"modal-dialog"
+			],
+			[
+				"example",
+				"exampleModal"
+			],
+			[
+				"bol",
+				"font-weight-bold"
+			],
+			[
+				"col",
+				"col-sm"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"cus",
+				"custom-radio"
+			],
+			[
+				"grou",
+				"form-group"
+			],
+			[
+				"tr",
+				"Track"
+			],
+			[
+				"email",
+				"Email"
+			],
+			[
+				"col-sm",
+				"col-sm-6"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"py",
+				"py-2"
+			],
+			[
+				"from",
+				"form-control"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"jumlah",
+				"jumlah"
+			],
+			[
+				"col-",
+				"col-sm-5"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"S",
+				"size\tproperty"
+			],
+			[
+				"si",
+				"Size"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"N",
+				"New"
+			],
+			[
+				"re",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"sp",
+				"span\tTag"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"D",
+				"DIV\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/dicoding/belajar/belajar css/1.html",
+		"/D/SEKOLAH/web/TitipinAja_FP_FIX/TitipinAja_FP/home.php",
+		"/D/Programs/OriginThinSetup.exe",
+		"/I/New folder/TensorFlow_Tut_2_Classification_Walk-through-master/test.py",
+		"/I/New folder/TensorFlow_Tut_2_Classification_Walk-through-master/retrain.py",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/lihat_pembayaran.php",
+		"/D/request.json",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/konfirmasi_request.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/customer/user.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/riwayat_belanja.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/riwayat_request.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/pembayaran.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/pembayaran_request.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/request_produk.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/admin/pembayaran_request.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/includes/sidemenu.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/konfirmasi_barang.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/admin/pembayaran.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/admin/index.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/admin/pembelian.php",
+		"/D/SEKOLAH/TitipinAja_FP_FIX/TitipinAja_FP/admin/request_produk.php",
+		"/D/SEKOLAH/TitipinAja_FP_last/TitipinAja_FP_last/admin/includes/navbar.php",
+		"/D/SEKOLAH/TitipinAja_FP_last/TitipinAja_FP_last/admin/pembelian.php",
+		"/D/SEKOLAH/TitipinAja_FP_last/TitipinAja_FP_last/admin/detail_request.php",
+		"/D/SEKOLAH/TitipinAja_FP_last/TitipinAja_FP_last/admin/request.php",
+		"/D/SEKOLAH/TitipinAja_FP_last/TitipinAja_FP_last/admin/index.php",
+		"/D/SEKOLAH/TitipinAja_FP_last/TitipinAja_FP_last/request_produk.php",
+		"/D/SEKOLAH/TitipinAja_FP_last/TitipinAja_FP_last/address_edit.php",
+		"/D/SEKOLAH/TitipinAja_FP_last/TitipinAja_FP_last/admin/produk.php",
+		"/D/SEKOLAH/TitipinAja_FP_last/TitipinAja_FP_last/admin/tambah_produk.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP2/admin/tambah_produk.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP2/login.php",
+		"/D/SEKOLAH/semester 5/program aplikasi mobile (praktikum)/mahasiswa.json",
+		"/D/SEKOLAH/semester 5/program aplikasi mobile (praktikum)/kantin.json",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP2/checkout.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP2/request_produk.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP2/customer/koneksi.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP2/admin/koneksi.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/admin/tambah_produk.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/customer/address.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/tambah_request.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/admin/detail_pembelian.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/admin/index.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/request_produk.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/admin/produk.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/customer/code.php",
+		"/D/SEKOLAH/TitipinAja_FP/customer/address_edit.php",
+		"/D/SEKOLAH/TitipinAja_FP/customer/code.php",
+		"/D/SEKOLAH/TitipinAja_FP/customer/address.php",
+		"/D/SEKOLAH/konfirmasi-pembayaran.php",
+		"/D/SEKOLAH/ubah-produk.php",
+		"/D/SEKOLAH/tambah-produk.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/checkout.php",
+		"/D/SEKOLAH/semester 5/pemograman web lanjut/per6/foto.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/login.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/keranjang.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/includes/header.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/coba.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/customer/koneksi.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/admin/koneksi.php",
+		"/D/SEKOLAH/semester 5/program aplikasi mobile (praktikum)/DEMO_JSON.json",
+		"/D/SEKOLAH/semester 5/pemograman web lanjut/per7/show_data.php",
+		"/D/SEKOLAH/coba/tiga.php",
+		"/D/SEKOLAH/coba/dua.php",
+		"/D/SEKOLAH/coba/satu.php",
+		"/D/SEKOLAH/coba.php",
+		"/D/SEKOLAH/mini-toko-online/mini-toko-online/config.php",
+		"/D/SEKOLAH/koneksi.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/address_edit.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/address.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/register.php",
+		"/D/SEKOLAH/TitipinAja_FP(1)/TitipinAja_FP/cart.php",
+		"/D/SEKOLAH/TitipinAja_FP/pembayaran.php",
+		"/D/SEKOLAH/TitipinAja_FP/home.php",
+		"/D/SEKOLAH/TitipinAja_FP/coba.php",
+		"/D/SEKOLAH/TitipinAja_FP/customer/bank.php",
+		"/D/SEKOLAH/TitipinAja_FP/cobaindex.php",
+		"/D/SEKOLAH/TitipinAja_FP/insert.php",
+		"/D/SEKOLAH/TitipinAja_FP/assets/js/pembayaran.js",
+		"/D/SEKOLAH/phpinfo.php",
+		"/D/SEKOLAH/FP-PWL-TitipinAja-master/request-produk.php",
+		"/C/xampp/htdocs/FP-PWL-TitipinAja-master/request-produk.php",
+		"/C/xampp/htdocs/FP-PWL-TitipinAja-master/pembayaran.php",
+		"/C/xampp/htdocs/FP-PWL-TitipinAja-master/trackorder.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas final/data diri.html",
+		"/D/VISI MISI/DESAIN/web/Final Project/new/index.html",
+		"/D/Pornograhpy_Detector-master/.idea/porn_detect.iml",
+		"/D/VISI MISI/DESAIN/web/html/tugas 16/mengenal fitur css 3.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 16/javascipt dasar.js",
+		"/D/VISI MISI/DESAIN/web/html/tugas 15/menbahkan jumbotron.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 14/membuat menu drop down.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 13/membuat daftar produk.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 12/membuat layout dasar.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 11/css selector.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 10/css font.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 9/css text.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 8/css background.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 7/css position.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 6/css float.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 5/Box Model & Overflow.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 4/display dan dimension.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 3/membuat layout dengan tag.html",
+		"/D/VISI MISI/DESAIN/web/html/tugas 2/membuat list.html",
+		"/D/DESAIN/web/html/tugas 1/css_dan_style",
+		"/D/DESAIN/web/html/data diri.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
